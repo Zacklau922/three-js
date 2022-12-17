@@ -1,0 +1,6 @@
+// Run on Terminal 
+
+// 1. vite (already done) => npm create vite@latest
+//    Cd "project-name"
+// 2. => npm i three gsap
+// 3. => npm run dev : http://localhost:5173/
